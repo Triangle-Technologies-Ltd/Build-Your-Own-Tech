@@ -1,3 +1,5 @@
+## Build your own TECH, Do whatever your logical brain wants you to DO! Learn AMSP. ❤ 
+
 **[[Submit tutorial](https://github.com/danistefanovic/build-your-own-x/issues/new)]**
 
 # ![Build your own X](feynman.png)
