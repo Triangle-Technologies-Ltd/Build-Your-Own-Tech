@@ -1,4 +1,4 @@
-## Build your own TECH, Do whatever your logical brain wants you to DO! Learn AMSP. ❤ 
+## Build your own TECH, Do whatever your logical brain wants you to DO! Learn AMAP. ❤ 
 
 **[[Submit tutorial](https://github.com/danistefanovic/build-your-own-x/issues/new)]**
 
